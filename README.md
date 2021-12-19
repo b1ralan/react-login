@@ -1,3 +1,3 @@
 # React login
 
-https://b1ralan.github.io/login
+https://b1ralan.github.io/react-login/
